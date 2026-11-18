@@ -1,5 +1,7 @@
 # FISI-Prüfungstrainer
 
+[![Python](https://github.com/eazzy1989/fisi-pruefungstrainer/actions/workflows/python-lint.yml/badge.svg)](https://github.com/eazzy1989/fisi-pruefungstrainer/actions/workflows/python-lint.yml)
+
 Zwei Telegram-Bots zur Vorbereitung auf die IHK-Abschlussprüfung **Fachinformatiker/in für Systemintegration** – entstanden während meiner eigenen Umschulung und im Einsatz für meine Lerngruppe.
 
 | Bot | Prüfung | Highlights |
