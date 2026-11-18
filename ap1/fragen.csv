@@ -1,0 +1,13 @@
+Question #,Thema,Question,A,B,C,D,E,F,Correct Answer
+1,Netzwerk,Welche Subnetzmaske gehört zur Präfixlänge /26?,255.255.255.0,255.255.255.128,255.255.255.192,255.255.255.224,,,C
+2,Netzwerk,Welches Protokoll ordnet einer IPv4-Adresse im lokalen Netz die MAC-Adresse zu?,DNS,ARP,DHCP,ICMP,,,B
+3,Netzwerk,Mehrfachauswahl: Welche Adressen sind private IPv4-Adressen nach RFC 1918?,10.20.30.40,172.20.1.1,192.168.0.10,100.64.0.1,8.8.4.4,,ABC
+4,"Betriebssysteme, Server & Cloud","Welches Cloud-Servicemodell stellt dem Kunden virtuelle Maschinen, Speicher und Netzwerk bereit, während er Betriebssystem und Anwendungen selbst verwaltet?",SaaS,PaaS,IaaS,FaaS,,,C
+5,"Betriebssysteme, Server & Cloud",Welches RAID-Level spiegelt die Daten auf zwei Festplatten?,RAID 0,RAID 1,RAID 5,RAID 6,,,B
+6,Datenschutz & IT-Sicherheit,"Welches Schutzziel der Informationssicherheit ist verletzt, wenn ein Server durch einen DDoS-Angriff nicht mehr erreichbar ist?",Vertraulichkeit,Integrität,Verfügbarkeit,Authentizität,,,C
+7,Datenschutz & IT-Sicherheit,Mehrfachauswahl: Welche Maßnahmen erhöhen die Sicherheit von Benutzerkonten?,Mehr-Faktor-Authentifizierung,Kontosperre nach mehreren Fehlversuchen,Gemeinsame Konten für ganze Abteilungen,Passwörter im Klartext speichern,Passwort-Manager mit langen Passwörtern,,ABE
+8,Projektmanagement,Was beschreibt ein Lastenheft?,Die Anforderungen des Auftraggebers,Die technische Umsetzung durch den Auftragnehmer,Den Zeitplan als Gantt-Diagramm,Die Abnahme des Projekts,,,A
+9,Projektmanagement,Welche Vorgänge liegen im Netzplan auf dem kritischen Pfad?,Vorgänge mit dem größten Aufwand,Vorgänge ohne Pufferzeit,Vorgänge mit den meisten Ressourcen,Vorgänge am Projektende,,,B
+10,Hardware & Rechnen,Eine Datei ist 2 GiB groß. Wie viele MiB sind das?,2.000,2.048,1.024,2.024,,,B
+11,Kundenberatung & Wirtschaft,"Welche Fragetechnik eignet sich am besten, um im Kundengespräch möglichst viele Anforderungen zu erfahren?",Geschlossene Fragen,Suggestivfragen,Offene Fragen,Alternativfragen,,,C
+12,Programmierung & Datenbanken,Welcher SQL-Befehl entfernt einzelne Datensätze aus einer Tabelle?,DROP,DELETE,TRUNCATE,REMOVE,,,B

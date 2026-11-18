@@ -1,0 +1,12 @@
+ID,Pruefung,Thema,Punkte,Aufgabe,Loesung,Teil
+1,Übung Teil 1,Cloud & Server,6,Ein Unternehmen möchte seinen Dateiserver in die Cloud verlagern. Nennen Sie je zwei Vor- und Nachteile.,"Vorteile: Skalierbarkeit, keine eigene Hardware/Wartung, hohe Verfügbarkeit.
+Nachteile: Abhängigkeit von Internetverbindung und Anbieter, Datenschutz/Datenstandort prüfen, laufende Kosten.",Teil 1
+2,Übung Teil 1,Backup,4,Erläutern Sie den Unterschied zwischen einer inkrementellen und einer differenziellen Sicherung.,"Inkrementell: sichert nur Änderungen seit der letzten Sicherung beliebiger Art – schnell, aber Wiederherstellung braucht alle Teilsicherungen.
+Differenziell: sichert alle Änderungen seit der letzten Vollsicherung – wächst täglich, Wiederherstellung braucht nur Voll- und letzte Differenzsicherung.",Teil 1
+3,Übung Teil 1,Rechnen,4,Eine USV liefert 1.500 W. Angeschlossen sind zwei Server mit je 450 W und ein Switch mit 120 W. Wie viel Leistungsreserve bleibt?,"2 × 450 W + 120 W = 1.020 W
+1.500 W − 1.020 W = 480 W Reserve",Teil 1
+4,Übung Teil 2,Subnetting,6,Das Netz 192.168.10.0/24 soll in vier gleich große Subnetze aufgeteilt werden. Geben Sie Präfix sowie Netz- und Broadcast-Adresse des zweiten Subnetzes an.,"4 Subnetze → 2 Bits leihen → /26 (Blockgröße 64)
+2. Subnetz: Netz 192.168.10.64, Broadcast 192.168.10.127",Teil 2
+5,Übung Teil 2,VPN & Firewall,4,Erklären Sie den Unterschied zwischen einer Site-to-Site- und einer Client-to-Site-VPN-Verbindung.,"Site-to-Site: verbindet zwei Netze dauerhaft über ihre Gateways, Clients merken nichts davon.
+Client-to-Site: einzelne Geräte (z. B. Notebook im Homeoffice) wählen sich mit einem VPN-Client ins Firmennetz ein.",Teil 2
+6,Übung WiSo,WiSo,3,Nennen Sie drei Pflichten eines Auszubildenden nach dem Berufsbildungsgesetz.,"Lernpflicht, Weisungen befolgen, Berufsschulbesuch, Ausbildungsnachweis führen, Betriebsgeheimnisse wahren, Ordnung beachten (§ 13 BBiG).",WiSo
